@@ -1,0 +1,3 @@
+rootProject.name = 'like-videos'
+
+include ':app'
